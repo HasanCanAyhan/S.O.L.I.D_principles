@@ -1,4 +1,4 @@
-package com.cydeo.solid.liskovSubstitution.example.bad;
+package com.cydeo.liskovSubstitution.example.bad;
 
 import java.util.Arrays;
 import java.util.List;

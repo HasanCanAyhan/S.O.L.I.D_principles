@@ -1,4 +1,4 @@
-package com.cydeo.solid.openClosed.example2.good;
+package com.cydeo.openClosed.example2.good;
 
 public class Subtraction implements Operation {
     @Override

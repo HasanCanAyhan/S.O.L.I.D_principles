@@ -1,4 +1,4 @@
-package com.cydeo.solid.interfaceSegregation.example.bad;
+package com.cydeo.interfaceSegregation.example.bad;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,9 +1,9 @@
-package com.cydeo.liskovSubstitution.example.bad;
+package com.cydeo.liskovSubstitution.example.good;
 
-public class Rectangle {
+public class Rectangle implements Shape {
 
-    protected int height;
-    protected int width;
+    private int height;
+    private int width;
 
     public void setHeight(int height) {
         this.height = height;
@@ -13,6 +13,7 @@ public class Rectangle {
         this.width = width;
     }
 
+    @Override
     public int getArea() {
         return this.height * this.width;
     }

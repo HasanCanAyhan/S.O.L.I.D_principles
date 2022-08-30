@@ -1,4 +1,4 @@
-package com.cydeo.solid.openClosed.example1.good;
+package com.cydeo.openClosed.example1.good;
 
 public class Circle implements Shape {
 

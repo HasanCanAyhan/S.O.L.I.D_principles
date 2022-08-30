@@ -1,4 +1,4 @@
-package com.cydeo.solid.openClosed.example2.bad;
+package com.cydeo.openClosed.example2.bad;
 
 public enum OperationType {
 
