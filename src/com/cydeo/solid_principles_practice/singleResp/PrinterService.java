@@ -1,4 +1,4 @@
-package com.cydeo.solid_principles_PRACTICE.singleResp;
+package com.cydeo.solid_principles_practice.singleResp;
 
 public class PrinterService {
 
