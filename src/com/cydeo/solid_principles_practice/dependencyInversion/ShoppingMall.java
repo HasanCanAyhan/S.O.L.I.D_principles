@@ -5,7 +5,7 @@ public class ShoppingMall {
     //ShoppingMall class(high level) depends on the Debit Card Class(low level)
 
     //private DebitCard debitCard;
-    // what if ? it must be written same code also for Credit card, that s why we should abstraction/interface between high level and low level class
+    // what if we want use credit card ? it must be written same code also for Credit card, that s why we should abstraction/interface between high level and low level class
     //private CreditCard creditCard;
 
     /*
